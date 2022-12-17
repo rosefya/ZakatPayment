@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zakat Payment</string>
+    <string name="copyright">Copyright &#169; 2022 Syafiqah</string>
+    <string name="about_text"> This is a simple mobile application for estimating zakat payment for gold keeping.</string>
+    <string name="developer"> SYAFIQAH BINTI MOHAMAD AKHYAR [2020852982]</string>
+    <string name="code"> CS2515A | CS251</string>
+    <string name="link"><a href="https://github.com/rosefya/ZakatPayment.git">github.com/rosefya/</a></string>
+
+</resources>
